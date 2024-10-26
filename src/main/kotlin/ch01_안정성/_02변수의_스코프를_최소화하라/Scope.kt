@@ -1,4 +1,4 @@
-package ch01_안정성
+package ch01_안정성._02변수의_스코프를_최소화하라
 
 const val a = 1
 fun fizz() {

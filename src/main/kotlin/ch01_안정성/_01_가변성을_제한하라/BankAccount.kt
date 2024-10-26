@@ -1,4 +1,4 @@
-package ch01_안정성._01_안정성을_제한하라
+package ch01_안정성._01_가변성을_제한하라
 
 class BankAccount {
     var balance = 0.0

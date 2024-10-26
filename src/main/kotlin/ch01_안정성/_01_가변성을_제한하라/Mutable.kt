@@ -1,4 +1,4 @@
-package ch01_안정성
+package ch01_안정성._01_가변성을_제한하라
 
 import kotlin.properties.Delegates
 

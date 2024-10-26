@@ -1,4 +1,4 @@
-package ch01_안정성.null과Failure
+package ch01_안정성._07null과Failure
 
 import com.google.gson.Gson
 import com.google.gson.JsonSyntaxException
